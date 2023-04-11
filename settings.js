@@ -20,7 +20,7 @@ global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['8848063606'] //ur owner number
+global.owner = ['+918848063606'] //ur owner number
 global.ownername = "delax bot" //ur owner name
 global.ytname = "YT: no name" //ur yt chanel name
 global.socialm = "GitHub: __rdx__malayali__" //ur github or insta name
@@ -28,7 +28,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "8848063606" //ur number
+global.ownernomer = "+918848063606" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['94786802371'] //ur premium number
 global.botname = 'DELAX-BOT ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
@@ -37,7 +37,7 @@ global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
+global.author = "Dark Nero Creating By DELAX MODZ" //ur sticker watermark author
 global.wm = "Dark Bot Inc." //ur watermark
 
 // Other
